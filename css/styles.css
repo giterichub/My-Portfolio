@@ -47,7 +47,7 @@
 
 /* Handle */
 ::-webkit-scrollbar-thumb {
-  background: var(--color-secondary);
+  background: #DCC784;
   border-radius: 7px;
 }
 
